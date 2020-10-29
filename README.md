@@ -1,7 +1,7 @@
 # linux_virtual_nexwork
 
 ### Introduction :
-The goal of this project to create a virtual network of linux machine. In order to carry out this project I create a new shell command, called rvsh which works in two following modes: connect mode and admin mode.
+The goal of this project to create a virtual network of linux machine. I create a new shell command, called **rvsh** which works in two following modes: connect mode and admin mode.
 
 When the file is run, check for the existence of the following three files:
 1. *users.txt* : contains the usernames, their password and the list of machines to which they have the right of access
