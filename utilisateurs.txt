@@ -1,0 +1,4 @@
+Jean:abcde:machine1:machine2
+Anne:qwerty:machine2
+Lucas:Tadic:machine1:machine2
+Pierre:hanmn:monMachine:machine3
