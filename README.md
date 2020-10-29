@@ -44,7 +44,7 @@ List of commande :
 | write | allows the user to send a message to other user logged on to a network machine, it is the Linux 'write' command |
 | finger | display the information about users, it is the Linux 'finger' command. |
 
-Admin mode :
+#### Admin Mode
 Admin mode allows the administrator to log in to admin mode to manage users and virtual machines. 
 To use mode 2, the admin must type the command
 ```sh
